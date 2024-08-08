@@ -13,15 +13,15 @@ La página es responsiva (adaptable a diferentes tamaños de pantalla) e incluye
 
 ### SECCIONES DE MI SITIO
 
-![1723116149481](image/README/1723116149481.png)
+![Presentación](assets/readme/1.jpg)
 
-![1723116259799](image/README/1723116259799.png)
+![Habilidades](assets/readme/2.jpg)
 
-![1723116267272](image/README/1723116267272.png)
+![Proyectos](assets/readme/3.jpg)
 
-![1723116278727](image/README/1723116278727.png)
+![Testimonios](assets/readme/4.jpg)
 
-![1723116289134](image/README/1723116289134.png)
+![Contacto](assets/readme/5.jpg)
 
 
 ### TECNOLOGIAS
