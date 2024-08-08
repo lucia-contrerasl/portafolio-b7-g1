@@ -8,6 +8,10 @@
     background-image: url('assets/google.gif');
 }
 
+#proyecto-2{
+    background-image: url('assets/arrested.avif');
+}
+
 .text-shadow-1 { 
     text-shadow: -2px 0px 6px rgba(0, 0, 0, 1); 
 }
