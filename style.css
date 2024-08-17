@@ -1,5 +1,5 @@
 .proyecto{
-    background-size: contain;
+    background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
 }
@@ -11,6 +11,11 @@
 #proyecto-2{
     background-image: url('assets/arrested.avif');
 }
+
+#proyecto-3{
+    background-image: url('assets/paisaje.jpg');
+}
+
 
 .text-shadow-1 { 
     text-shadow: -2px 0px 6px rgba(0, 0, 0, 1); 
