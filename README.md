@@ -1,4 +1,4 @@
-# Mi portafolio de habilidades TECNOLOCHICAS PRO 💜.
+# Mi portafolio de habilidades.
 
 
 El presente proyecto es un portafolio para poner en práctica las habilidades obtenidas dentro del bootcamp de desarrollo fronted de Tecnolochicas Pro.
